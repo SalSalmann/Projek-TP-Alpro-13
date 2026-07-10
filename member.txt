@@ -1,0 +1,3 @@
+Rasya|30|Bronze
+alfa|10|Bronze
+opa|0|Bronze

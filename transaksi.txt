@@ -1,0 +1,7 @@
+TRX6752|slmn|Iphone 13 pro max|1|50000
+TRX0002|bear|Iphone 13 pro max|4|200000
+TRX0003|slmn|Iphone 13 pro max|30|1500000
+TRX0004|Rasya|Iphone 13 pro max|5|250000
+TRX0005|Rasya|iphone 15 pro|7|210000
+TRX0006|alfa|iphone 14 pro|3|150000
+TRX0007|opa|iphone 15 pro|3|90000
